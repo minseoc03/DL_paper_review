@@ -9,9 +9,9 @@ This repository contains PyTorch implementations of deep learning models from re
 - **Documentation & References**: Each implementation includes a summary of the paper and key insights.
 
 ## 📚 Implemented Models
-| Model | Paper | Code | Published |
-|--------|--------|--------|--------|
-| ResNet | [Paper Link](https://arxiv.org/abs/1512.03385) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/ResNet.py) | 2015.12.10
+| Model | Paper | Code | Summary (KR) | Published |
+|--------|--------|--------|--------|--------|
+| ResNet | [Paper Link](https://arxiv.org/abs/1512.03385) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/ResNet.py) | [Note](https://minseoc03.notion.site/ResNet-15d6a507bae9809a8e69d86ba4939968)| 2015.12.10
 | Example Model 2 | [Paper Link](#) | [Code](#) |
 
 More models will be added soon! Feel free to contribute.
