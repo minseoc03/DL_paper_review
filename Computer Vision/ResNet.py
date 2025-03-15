@@ -16,9 +16,9 @@ class BasicBlock(nn.Module):
         residual = self.residual(x)
 
         if self.projection is not None:
-            shortcut = self.projection(x) # 점선 연결
+            shortcut = self.projection(x)
         else:
-            shortcut = x # 실선 연결
+            shortcut = x
 
         out = self.relu(residual + shortcut)
         return out
@@ -59,7 +59,7 @@ class ResNet(nn.Module):
 
         self.conv1 = nn.Conv2d(3, 64, kernel_size=7, stride=2, padding=3, bias=False)
         self.bn1 = nn.BatchNorm2d(64)
-        self.relu = nn.ReLU(inplace=True) # 좀더 메모리 효율적
+        self.relu = nn.ReLU(inplace=True)
         self.maxpool = nn.MaxPool2d(kernel_size=3, stride=2, padding=1)
         self.stage1 = self.make_stage(block, 64, num_block_list[0], stride=1)
         self.stage2 = self.make_stage(block, 128, num_block_list[1], stride=2)
