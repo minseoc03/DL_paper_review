@@ -14,7 +14,7 @@ This repository contains PyTorch implementations of deep learning models from re
 | VGGNet | [Paper Link](https://arxiv.org/abs/1409.1556) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/VGGNet.py) | [Note](https://minseoc03.notion.site/VGGNet-1556a507bae980ac9876d2b9f6a677c8)| 2014.09.04
 | Inception V1 | [Paper Link](https://arxiv.org/abs/1409.4842) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/Inception_v1.py) | [Note](https://minseoc03.notion.site/Inception-V1-1586a507bae980edafcef39af08b1e0d)| 2014.09.17
 | ResNet | [Paper Link](https://arxiv.org/abs/1512.03385) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/ResNet.py) | [Note](https://minseoc03.notion.site/ResNet-15d6a507bae9809a8e69d86ba4939968)| 2015.12.10
-
+| Inception V2,3 | [Paper Link](https://arxiv.org/abs/1512.00567) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/Inception_v3.py) | [Note](https://minseoc03.notion.site/Inception-V2-V3-1646a507bae98084b186dfa19eaded5b)| 2015.12.11
 
 More models will be added soon! Feel free to contribute.
 
