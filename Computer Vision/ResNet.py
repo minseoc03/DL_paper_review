@@ -1,3 +1,6 @@
+import torch
+from torch import nn
+
 class BasicBlock(nn.Module):
     expansion = 1
     def __init__(self, in_channels, inner_channels, stride = 1, projection = None):
