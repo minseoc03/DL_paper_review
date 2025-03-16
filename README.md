@@ -19,7 +19,7 @@ This repository contains PyTorch implementations of deep learning models from re
 | WideResNet (WRN) | [Paper Link](https://arxiv.org/abs/1605.07146) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/WideResNet.py) | [Note](https://minseoc03.notion.site/WideResNet-WRN-1666a507bae98087a0bcf7e9a44cc47d) | 2016.05.23 | CV
 | DenseNet | [Paper Link](https://arxiv.org/abs/1608.06993) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/DenseNet.py) | [Note](https://minseoc03.notion.site/DenseNet-16c6a507bae98015a0cae094e93f7bd0) | 2016.08.25 | CV
 | ResNeXt | [Paper Link](https://arxiv.org/abs/1611.05431) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/ResNeXt.py) | [Note](https://minseoc03.notion.site/ResNeXt-16b6a507bae9804ba9caf5b1c8fc7bbc) | 2017.04.11 | CV
-| MobileNet V1 | [Paper Link](https://arxiv.org/abs/1704.04861) | | | 2017.04.17 | CV
+| MobileNet V1 | [Paper Link](https://arxiv.org/abs/1704.04861) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/MobileNet_v1.py) | [Note](https://minseoc03.notion.site/MobileNet-V1-16c6a507bae98090833cead1f69d3341) | 2017.04.17 | CV
 | Transformer | [Paper Link](https://arxiv.org/abs/1706.03762) | | | 2017.06.12 | NLP
 | SENet | [Paper Link](https://arxiv.org/abs/1709.01507) | | | 2017.09.05 | CV
 | MobileNet V2 | [Paper Link](https://arxiv.org/abs/1801.04381) | | | 2018.01.13 | CV
