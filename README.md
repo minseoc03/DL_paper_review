@@ -16,7 +16,7 @@ This repository contains PyTorch implementations of deep learning models from re
 | ResNet | [Paper Link](https://arxiv.org/abs/1512.03385) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/ResNet.py) | [Note](https://minseoc03.notion.site/ResNet-15d6a507bae9809a8e69d86ba4939968)| 2015.12.10 | CV
 | Inception V2,3 | [Paper Link](https://arxiv.org/abs/1512.00567) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/Inception_v3.py) | [Note](https://minseoc03.notion.site/Inception-V2-V3-1646a507bae98084b186dfa19eaded5b)| 2015.12.11 | CV
 | Pre-Act. ResNet | [Paper Link](https://arxiv.org/abs/1603.05027) | | | 2016.03.16 | CV
-| WideResNet (WRN) | [Paper Link](https://arxiv.org/abs/1605.07146) | | | 2016.05.23 | CV
+| WideResNet (WRN) | [Paper Link](https://arxiv.org/abs/1605.07146) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/WideResNet.py) | [Note](https://minseoc03.notion.site/WideResNet-WRN-1666a507bae98087a0bcf7e9a44cc47d) | 2016.05.23 | CV
 | DenseNet | [Paper Link](https://arxiv.org/abs/1608.06993) | | | 2016.08.25 | CV
 | ResNeXt | [Paper Link](https://arxiv.org/abs/1611.05431) | | | 2017.04.11 | CV
 | MobileNet V1 | [Paper Link](https://arxiv.org/abs/1704.04861) | | | 2017.04.17 | CV
