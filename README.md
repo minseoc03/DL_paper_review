@@ -24,7 +24,7 @@ This repository contains PyTorch implementations of deep learning models from re
 | SENet | [Paper Link](https://arxiv.org/abs/1709.01507) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/SENet.py) | [Note](https://minseoc03.notion.site/SENet-16c6a507bae98024964bd23bd46087d9) | 2017.09.05 | CV
 | MobileNet V2 | [Paper Link](https://arxiv.org/abs/1801.04381) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/MobileNet_v2.py) | [Note](https://minseoc03.notion.site/MobileNet-V2-16c6a507bae980eb9f2cc23c2be4fe76) | 2018.01.13 | CV
 | MobileNet V3 | [Paper Link](https://arxiv.org/abs/1905.02244) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/MobileNet_v3.py) | [Note](https://minseoc03.notion.site/MobileNet-V3-16c6a507bae980a1b55cdc6ad1c4256c) | 2019.05.06 | CV
-| EfficientNet | [Paper Link](https://arxiv.org/abs/1905.11946) | | | 2019.05.28 | CV
+| EfficientNet | [Paper Link](https://arxiv.org/abs/1905.11946) | [Code](https://github.com/minseoc03/DL_paper_review/blob/main/Computer%20Vision/EfficientNet.py) | [Note](https://minseoc03.notion.site/EfficientNet-16c6a507bae9805d9d2bc9ab4ff7a2fa) | 2019.05.28 | CV
 
 More models will be added soon! Feel free to contribute.
 
