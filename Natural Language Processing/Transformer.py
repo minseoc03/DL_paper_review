@@ -1,13 +1,12 @@
 import torch
-from torch import nn, optim
-from torch.optim.lr_scheduler import CosineAnnealingWarmRestarts
-from transformers import MarianMTModel, MarianTokenizer
+from torch import nn
+from transformers import MarianTokenizer
 import pandas as pd
-from tqdm import tqdm
 import math, random
 from einops import rearrange
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+
 class MHA(nn.Module):
     def __init__(self, d_model, n_heads):
         super().__init__()
